@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+parking_data.json
+parking_data.tmp
